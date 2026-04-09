@@ -1,0 +1,17 @@
+# Environnement
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# Données sensibles
+data/extractions/
+data/results/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
